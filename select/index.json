@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "No brand girls",
+  "base_artist": "μ's",
+  "createdAt": "2025-12-14T06:32:56.339402Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Brand Girls",
+      "artist": "μ's",
+      "has_synced": false,
+      "path": "select/01_No_Brand_Girls_μ's.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No brand girls(HONOKA Mix)",
+      "artist": "高坂穂乃果(CV.新田恵海)",
+      "has_synced": true,
+      "path": "select/02_No_brand_girls(HONOKA_Mix)_高坂穂乃果(CV.新田恵海).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No brand girls (HONOKA Mix)",
+      "artist": "高坂穂乃果(CV. 新田恵海)",
+      "has_synced": true,
+      "path": "select/03_No_brand_girls_(HONOKA_Mix)_高坂穂乃果(CV._新田恵海).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No brand girls(RIN Mix)",
+      "artist": "星空凛(CV.飯田里穂)",
+      "has_synced": true,
+      "path": "select/04_No_brand_girls(RIN_Mix)_星空凛(CV.飯田里穂).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No brand girls (RIN Mix)",
+      "artist": "星空凛(CV. 飯田里穂)",
+      "has_synced": true,
+      "path": "select/05_No_brand_girls_(RIN_Mix)_星空凛(CV._飯田里穂).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No brand girls (Off Vocal)",
+      "artist": "μ’s",
+      "has_synced": true,
+      "path": "select/06_No_brand_girls_(Off_Vocal)_μ’s.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No brand girls",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/07_No_brand_girls_μ's.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No brand girls",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/08_No_brand_girls_μ's.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "no brand girls",
+      "artist": "koizumi hanayo",
+      "has_synced": true,
+      "path": "select/09_no_brand_girls_koizumi_hanayo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No brand girls",
+      "artist": "μ’s",
+      "has_synced": true,
+      "path": "select/10_No_brand_girls_μ’s.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No brand girls（HANAYO Mix）",
+      "artist": "久保ユリカ",
+      "has_synced": true,
+      "path": "select/11_No_brand_girls(HANAYO_Mix)_久保ユリカ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No brand girls（UMI Mix）",
+      "artist": "三森すずこ",
+      "has_synced": true,
+      "path": "select/12_No_brand_girls(UMI_Mix)_三森すずこ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No brand girls（HONOKA Mix）",
+      "artist": "新田恵海",
+      "has_synced": true,
+      "path": "select/13_No_brand_girls(HONOKA_Mix)_新田恵海.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No brand girls（KOTORI Mix）",
+      "artist": "内田彩",
+      "has_synced": true,
+      "path": "select/14_No_brand_girls(KOTORI_Mix)_内田彩.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No brand girls（ELI Mix）",
+      "artist": "南條愛乃",
+      "has_synced": false,
+      "path": "select/15_No_brand_girls(ELI_Mix)_南條愛乃.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "No brand girls（ELI Mix）",
+      "artist": "絢瀬絵里",
+      "has_synced": false,
+      "path": "select/16_No_brand_girls(ELI_Mix)_絢瀬絵里.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "No brand girls（HANAYO Mix）",
+      "artist": "小泉花陽",
+      "has_synced": false,
+      "path": "select/17_No_brand_girls(HANAYO_Mix)_小泉花陽.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No brand girls",
+      "artist": "μ's",
+      "has_synced": false,
+      "path": "select/pl_01_No_brand_girls_μ's.txt"
+    }
+  ]
+}
